@@ -2,6 +2,6 @@
 
 Simple RSA module with user authentication system
 
-Default user:
+Default user/password:
   admin
   admin
